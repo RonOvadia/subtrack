@@ -271,7 +271,7 @@ export default function CoordinatorDashboard() {
             </div>
           ))}
 
-          {/* כפתור וואטסאפ */}
+          {/*  כפתור וואטסאפ  */}
           <button className="btn" style={{
             width: "100%", padding: "9px 0", fontSize: 12, marginTop: "auto",
             background: "linear-gradient(135deg, #065f46, #047857)",
